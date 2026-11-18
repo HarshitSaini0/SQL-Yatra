@@ -1,10 +1,3 @@
-Here are all 5 files for your Week 1 GitHub folder, ready to copy-paste and use:
-
----
-
-## 📄 File 1: `lesson_notes.md`
-
-```markdown
 # Week 1: Mindset Shift & Fetching Data
 
 ## 🎯 Learning Objectives
